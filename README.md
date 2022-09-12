@@ -1,1 +1,1 @@
-# semanticWeb
+# semanticWeb project
